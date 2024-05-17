@@ -1,0 +1,7 @@
+scikit-learn
+pandas
+mlflow
+hyperopt
+matplotlib
+imblearn
+db-sqlite3
